@@ -1,6 +1,6 @@
 # Movus Dashboard
 
-This is an Android app developed for Movus Logistics to track of what's the current station of warehouse ramps.
+This is an Android TV app developed for Movus Logistics to track of what's the current station of warehouse ramps.
 
 # Screenshots
 
