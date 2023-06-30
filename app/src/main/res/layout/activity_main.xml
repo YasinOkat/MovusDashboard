@@ -91,8 +91,7 @@
                         android:id="@+id/tv_sistem_no"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="2214909" />
+                        android:layout_weight="1"/>
                 </TableRow>
                 <TableRow android:background="@drawable/table_border" android:padding="5dp">
                     <TextView
@@ -162,7 +161,7 @@
                         android:gravity="center"
                         android:layout_gravity="center"
                         android:textSize="40sp"
-                        android:text="02:01:40" />
+                        android:text="00:30:40" />
                 </TableRow>
 
             </TableLayout>
@@ -186,7 +185,7 @@
                         android:gravity="center"
                         android:textSize="20sp"
                         android:textColor="@color/white"
-                        android:text="Yükleme Başlama\n Saati" />
+                        android:text="Rampa Yanaşma\n Saati" />
                 </TableRow>
                 <TableRow android:background="@drawable/table_border" android:padding="5dp">
                     <TextView
@@ -222,7 +221,7 @@
                         android:gravity="center"
                         android:textSize="20sp"
                         android:textColor="@color/white"
-                        android:text="Araç Yükleme\nBitiş Saati" />
+                        android:text="Rampa\nÇıkış Saati" />
                 </TableRow>
                 <TableRow android:background="@drawable/table_border" android:padding="5dp">
                     <TextView
@@ -294,7 +293,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:layout_gravity="center"
                         android:text="ABDÜLKADİR ÖRS" />
 
                 </TableRow>
@@ -388,7 +386,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:layout_gravity="center"
-                            android:text="3" />
+                            android:text="1" />
                     </TableRow>
                     <TableRow android:background="@drawable/table_border" android:padding="5dp">
                         <TextView
@@ -403,7 +401,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:layout_gravity="center"
-                            android:text="60" />
+                            android:text="55" />
 
                     </TableRow>
                     <TableRow android:background="@drawable/table_border" android:padding="5dp">
@@ -419,7 +417,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:layout_gravity="center"
-                            android:text="01:09" />
+                            android:text="01:30" />
 
                     </TableRow>
 
@@ -1102,7 +1100,7 @@
                         android:paddingBottom="3dp"
                         android:gravity="center"
                         android:textSize="36sp"
-                        android:text="13:45" />
+                        android:text="14:11" />
                 </TableRow>
 
             </TableLayout>
